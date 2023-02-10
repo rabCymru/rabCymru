@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on basic projects the first year developers.
+- 🤔 I’m looking for help with any tuition!
+
 <!--
 **rabCymru/rabCymru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
